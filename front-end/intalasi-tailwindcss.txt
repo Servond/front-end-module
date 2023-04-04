@@ -1,0 +1,6 @@
+npm install -D tailwindcss
+
+npx tailwindcss init
+
+add "./src/**/*.{js,jsx,ts,tsx}" 
+inside tailwind.config.js content
